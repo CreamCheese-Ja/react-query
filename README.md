@@ -1,46 +1,26 @@
-# Getting Started with Create React App
+<img width="711" alt="スクリーンショット 2022-08-07 23 36 03" src="https://user-images.githubusercontent.com/94124347/183296099-e2c8c414-3fba-4a42-b879-5c443f911a89.png">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="722" alt="スクリーンショット 2022-08-07 23 35 14" src="https://user-images.githubusercontent.com/94124347/183296113-ded37260-e990-4472-bf82-c0659bc4e610.png">
 
-## Available Scripts
 
-In the project directory, you can run:
+# react-query
+### official
+https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/
 
-### `npm start`
+### reference
+https://reffect.co.jp/react/react-use-query
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+https://tkdodo.eu/blog/react-query-error-handling
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+https://tech.playground.style/dev/react-query-usecase/
 
-### `npm test`
+https://blog.microcms.io/optimize-cache-with-react-query/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# ky
+### official
+https://github.com/sindresorhus/ky
 
-### `npm run build`
+### reference
+https://zenn.dev/tak_iwamoto/articles/1a8770c09ad6993311be
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
