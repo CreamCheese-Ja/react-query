@@ -3,7 +3,9 @@ import UserNames from "../userNames/UserNames";
 
 const UserList = () => {
   const { fetchUsersQuery } = useUser();
-  const { data, isLoading, isError } = fetchUsersQuery;
+  const { data, isLoading, isError, status } = fetchUsersQuery;
+
+  console.log(status);
 
   if (isLoading) return <p>Loading...</p>;
 

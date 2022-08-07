@@ -7,7 +7,7 @@ const BasicButton: React.FC<Props> = (props) => {
   const { onClick } = props;
   return (
     <Button variant="contained" onClick={onClick}>
-      取得
+      切替
     </Button>
   );
 };
