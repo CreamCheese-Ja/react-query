@@ -8,7 +8,7 @@
 https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/
 
 ### reference
-https://reffect.co.jp/react/react-use-query#QueryClient
+https://reffect.co.jp/react/react-use-query
 
 https://tkdodo.eu/blog/react-query-error-handling
 
